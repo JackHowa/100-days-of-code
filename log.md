@@ -16,10 +16,12 @@
 
 **Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js)
 
-### Day 2: March 6, 2017, Tuesday 
+### Day 3: March 6, 2017, Tuesday 
 
-**Today's Progress:**
+**Today's Progress:** Minimal so far (35 minutes in). So far, learned that jquery and react working together is an [anti-pattern](https://stackoverflow.com/questions/43586830/react-js-binding-click-event). 
 
-**Thoughts:**
+**Thoughts:** Thought this would be easier, mixing with React. You always hear about how compatible React is with everything. Thought I could easily mix state transfer with jquery with react props. 
 
-**Link to work:**
+[react reference for initially integrating](https://medium.com/@to_pe/how-to-add-react-to-a-simple-html-file-a11511c0235f)
+
+**Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js)
