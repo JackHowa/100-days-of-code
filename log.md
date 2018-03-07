@@ -32,9 +32,18 @@ Feel much better about getting something working and at least utilizing somethin
 
 ### Day 4: March 7, 2017, Wednesday 
 
-**What did you like?**
-**What was lacking?**
-**What did you learn?**
-**What do you long for going forward?**
+**What did you like?** I liked working with react now. It's fun when you're working on the cutting edge. Feel like it will run faster too. JSX is much cleaner than js and html.
+**What was lacking?** I was lacking some self-control to not look at the [react tutorial for tic-tac-toe](https://reactjs.org/tutorial/tutorial.html). It's tough because I had a good start. Then I started getting bad code smells for react. That's when I looked for react guides. 
+**What did you learn?** I learned about creating a kind of constructor for child components. 
+**What do you long for going forward?** To have a good balance of refactoring based on best practices and swift learning. 
+
+**Link to work:** [tic tac react](https://github.com/JackHowa/tic-tac-react)
+
+### Day 5: March 8, 2017, Thursday 
+
+**Liked?**
+**Lacked?**
+**Learned?**
+**Longed for going forward?**
 
 **Link to work:**
