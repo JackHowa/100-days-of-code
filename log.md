@@ -29,3 +29,12 @@ Ended the day strong: a finishing 30 minutes to keep going with jQuery and ES201
 Feel much better about getting something working and at least utilizing something new in JS. 
 
 **Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js) [codepen](https://codepen.io/JackHowaa/pen/ddxzdv)
+
+### Day 4: March 7, 2017, Wednesday 
+
+**What did you like?**
+**What was lacking?**
+**What did you learn?**
+**What do you long for going forward?**
+
+**Link to work:**
