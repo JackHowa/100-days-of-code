@@ -20,8 +20,12 @@
 
 **Today's Progress:** Minimal so far (35 minutes in). So far, learned that jquery and react working together is an [anti-pattern](https://stackoverflow.com/questions/43586830/react-js-binding-click-event). 
 
+Ended the day strong: a finishing 30 minutes to keep going with jQuery and ES2015, including async-await. Basic functionality of the game complete. Have one more [user story requirement](https://www.freecodecamp.org/challenges/build-a-tic-tac-toe-game) via free code camp. 
+
 **Thoughts:** Thought this would be easier, mixing with React. You always hear about how compatible React is with everything. Thought I could easily mix state transfer with jquery with react props. 
 
 [react reference for initially integrating](https://medium.com/@to_pe/how-to-add-react-to-a-simple-html-file-a11511c0235f)
 
-**Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js)
+Feel much better about getting something working and at least utilizing something new in JS. 
+
+**Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js) [codepen](https://codepen.io/JackHowaa/pen/ddxzdv)
