@@ -47,3 +47,13 @@ Feel much better about getting something working and at least utilizing somethin
 **Longed for going forward?** An earlier set time. Was stressed out about client meeting so maybe over-psyched with running and going out the night. 
 
 **Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
+
+### Day 6: March 9, 2017, Friday 
+
+**Liked?**
+
+**Lacked?**
+
+**Learned?**
+
+**Longed for going forward?**
