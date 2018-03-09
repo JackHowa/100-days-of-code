@@ -41,9 +41,9 @@ Feel much better about getting something working and at least utilizing somethin
 
 ### Day 5: March 8, 2017, Thursday 
 
-**Liked?**
-**Lacked?**
-**Learned?**
-**Longed for going forward?**
+**Liked?** Finally getting a somewhat dry string interpolation working. Felt good getting some coding in on a busy day.
+**Lacked?** Good sleep and time management. Maybe could have coded on the train?
+**Learned?** That string interpolation with regex can be tricky. Named groups in regex is not a thing yet. 
+**Longed for going forward?** An earlier set time. Was stressed out about client meeting so maybe over-psyched with running and going out the night. 
 
-**Link to work:**
+**Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
