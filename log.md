@@ -50,10 +50,12 @@ Feel much better about getting something working and at least utilizing somethin
 
 ### Day 6: March 9, 2017, Friday 
 
-**Liked?**
+**Liked?** Getting some of the tests to pass. It's gone along with my work today using ssn regex and other validation.
 
-**Lacked?**
+**Lacked?** Code quality. The regex has been spiraling out of control. Now it's looseness is coming back to haunt because of potential conditional checks. 
 
-**Learned?**
+**Learned?** That you can will yourself to code. Whenever. At whatever hour or state of mind, with practice.
 
-**Longed for going forward?**
+**Longed for going forward?** A better schedule of going about this. Struggling to fit this into normal day. Maybe that's the point that I'm exceeding the normal schedule on a Friday night hehe. 
+
+**Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
