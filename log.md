@@ -50,12 +50,24 @@ Feel much better about getting something working and at least utilizing somethin
 
 ### Day 6: March 9, 2017, Friday 
 
-**Liked?** Getting some of the tests to pass. It's gone along with my work today using ssn regex and other validation.
+**Liked?** Getting some of the tests to pass. It's gone along with my work today using ssn regex and other validation. 
 
 **Lacked?** Code quality. The regex has been spiraling out of control. Now it's looseness is coming back to haunt because of potential conditional checks. 
 
 **Learned?** That you can will yourself to code. Whenever. At whatever hour or state of mind, with practice.
 
 **Longed for going forward?** A better schedule of going about this. Struggling to fit this into normal day. Maybe that's the point that I'm exceeding the normal schedule on a Friday night hehe. 
+
+**Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
+
+### Day 7: March 10, 2017, Saturday 
+
+**Liked?** Got all the tests to pass, albeit with helper method.
+
+**Lacked?** Need to bring all the regex groups together. 
+
+**Learned?** Good on me for asking for help on fcc glittr. Feels good getting that review with console logging the regex string that's created. 
+
+**Longed for going forward?** Should make more of a plan instead of going test-by-test in the challenge. An all-encompassing solution should just work.
 
 **Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
