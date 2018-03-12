@@ -71,3 +71,27 @@ Feel much better about getting something working and at least utilizing somethin
 **Longed for going forward?** Should make more of a plan instead of going test-by-test in the challenge. An all-encompassing solution should just work.
 
 **Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
+
+### Day 8: March 11, 2017, Sunday
+
+**Liked?** Adding comments to a relatively simple challenge - and doing it the best way 
+
+**Lacked?** Doing it right the first time. Guess that's part of coding. 
+
+**Learned?** Should reassess refactoring as I build an mvp. 
+
+**Longed for going forward?** Keeping on going with js and fcc feels good. 
+
+**Link to work:** [record handling](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/record-collection.js)
+
+### Day 8: March 11, 2017, Sunday
+
+**Liked?**
+
+**Lacked?**
+
+**Learned?**
+
+**Longed for going forward?**
+
+**Link to work:**
