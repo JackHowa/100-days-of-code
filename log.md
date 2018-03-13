@@ -84,7 +84,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [record handling](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/record-collection.js)
 
-### Day 8: March 11, 2017, Sunday
+### Day 9: March 12, 2017, Monday
 
 **Liked?** Liked working with dash docs. much clearer knowing the source. great explanaations too. feels good to get things done when you wouldn't think it's possible 
 
