@@ -86,12 +86,12 @@ Feel much better about getting something working and at least utilizing somethin
 
 ### Day 8: March 11, 2017, Sunday
 
-**Liked?**
+**Liked?** Liked working with dash docs. much clearer knowing the source. great explanaations too. feels good to get things done when you wouldn't think it's possible 
 
-**Lacked?**
+**Lacked?** didn't like turbulence while coding. probably could have gotten this work done at the airport where I had wifi to push 
 
-**Learned?**
+**Learned?** this is kind of meditative
 
-**Longed for going forward?**
+**Longed for going forward?** Coding on an airplane is last option.
 
-**Link to work:**
+**Link to work:** [symmetric pairs fcc challenge](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/symmetric-pairs.js)
