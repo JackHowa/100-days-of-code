@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 4, 2017, Sunday 
+### Day 1: March 4, 2018, Sunday 
 
 **Today's Progress:** Made a 1-dimensional tic tac toe solution finder. Based off a friend's flatiron challenge whereby board input with output of how the person won.
 
@@ -8,7 +8,7 @@
 
 **Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js)
 
-### Day 2: March 5, 2017, Monday  
+### Day 2: March 5, 2018, Monday  
 
 **Today's Progress:** Made a 2-demensional tic tac toe simulated player. Based on fcc curriculum for dumb computer opposition. Struggled to make a move per time. Also the random position player turned out to be more difficult than expected, using math and sample and lodash. Nodelists are difficult. 
 
@@ -16,7 +16,7 @@
 
 **Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js)
 
-### Day 3: March 6, 2017, Tuesday 
+### Day 3: March 6, 2018, Tuesday 
 
 **Today's Progress:** Minimal so far (35 minutes in). So far, learned that jquery and react working together is an [anti-pattern](https://stackoverflow.com/questions/43586830/react-js-binding-click-event). 
 
@@ -30,7 +30,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [tic tac toe](https://github.com/JackHowa/tic-tac-js) [codepen](https://codepen.io/JackHowaa/pen/ddxzdv)
 
-### Day 4: March 7, 2017, Wednesday 
+### Day 4: March 7, 2018, Wednesday 
 
 **What did you like?** I liked working with react now. It's fun when you're working on the cutting edge. Feel like it will run faster too. JSX is much cleaner than js and html.
 **What was lacking?** I was lacking some self-control to not look at the [react tutorial for tic-tac-toe](https://reactjs.org/tutorial/tutorial.html). It's tough because I had a good start. Then I started getting bad code smells for react. That's when I looked for react guides. 
@@ -39,7 +39,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [tic tac react](https://github.com/JackHowa/tic-tac-react)
 
-### Day 5: March 8, 2017, Thursday 
+### Day 5: March 8, 2018, Thursday 
 
 **Liked?** Finally getting a somewhat dry string interpolation working. Felt good getting some coding in on a busy day.
 **Lacked?** Good sleep and time management. Maybe could have coded on the train?
@@ -48,7 +48,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
 
-### Day 6: March 9, 2017, Friday 
+### Day 6: March 9, 2018, Friday 
 
 **Liked?** Getting some of the tests to pass. It's gone along with my work today using ssn regex and other validation. 
 
@@ -60,7 +60,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
 
-### Day 7: March 10, 2017, Saturday 
+### Day 7: March 10, 2018, Saturday 
 
 **Liked?** Got all the tests to pass, albeit with helper method.
 
@@ -72,7 +72,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [phone regex](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/validate-phone-nums.js)
 
-### Day 8: March 11, 2017, Sunday
+### Day 8: March 11, 2018, Sunday
 
 **Liked?** Adding comments to a relatively simple challenge - and doing it the best way 
 
@@ -84,7 +84,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [record handling](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/record-collection.js)
 
-### Day 9: March 12, 2017, Monday
+### Day 9: March 12, 2018, Monday
 
 **Liked?** Liked working with dash docs. much clearer knowing the source. great explanaations too. feels good to get things done when you wouldn't think it's possible 
 
@@ -93,5 +93,25 @@ Feel much better about getting something working and at least utilizing somethin
 **Learned?** this is kind of meditative
 
 **Longed for going forward?** Coding on an airplane is last option.
+
+**Link to work:** [symmetric pairs fcc challenge](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/symmetric-pairs.js)
+
+### Day 10: March 13, 2018, Tuesday
+
+***Liked*** Worked at the hotel. 
+
+***Disliked*** Didn't like working in bed before sleep.
+
+**Link to work:** [symmetric pairs fcc challenge](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/symmetric-pairs.js)
+
+### Day 11: March 16, 2018, Friday
+
+**Liked?** Working next to Lauren.
+
+**Lacked?** The math background to initially grasp what symmetric difference was. The question seemed to make it difficult to realize how to scale the problem.
+
+**Learned?** Math and symmetric difference
+
+**Longed for going forward?** Refactoring the solution based on my new understanding.
 
 **Link to work:** [symmetric pairs fcc challenge](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/symmetric-pairs.js)
