@@ -115,3 +115,15 @@ Feel much better about getting something working and at least utilizing somethin
 **Longed for going forward?** Refactoring the solution based on my new understanding.
 
 **Link to work:** [symmetric pairs fcc challenge](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/symmetric-pairs.js)
+
+### Day 12: March 19, 2018, Monday 
+
+**Liked?** Working next to Lauren for half of it after work. Was a good warm-up doing some in the morning before working. Have to get back into the coding mindset. 
+
+**Lacked?** Didn't realize an obvious initial misunderstanding due to lack of end testing. Worked on a middle thing without the big thing and the little thing's programmatic logic.
+
+**Learned?** pop and unshift can work well together. Need to visualize with my hands sometimes the order of things. It brought back to mind the roman numerals logic but having started with roman numeral letters. 
+
+**Longed for going forward?** Quicker early tests using fcc. Will want to rename the variables more verbosely not using acronyms so that I don't initially misunderstand. 
+
+**Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/symmetric-pairs.js)
