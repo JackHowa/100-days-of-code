@@ -127,3 +127,17 @@ Feel much better about getting something working and at least utilizing somethin
 **Longed for going forward?** Quicker early tests using fcc. Will want to rename the variables more verbosely not using acronyms so that I don't initially misunderstand. 
 
 **Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/symmetric-pairs.js)
+
+### Day 13: March 20, 2018, Tuesday
+
+***Liked*** getting two days in a row again. Feels bad not doing a day. Fun talking through the algorithm in my head with Lauren. 
+
+***Learned*** that it's important to build features. But it's more important to build what's needed for the tests to pass. 
+
+***Lacked*** the steadiness to do this earlier in the day, maybe in the morning. Though it was nice to linger in bed early. Didn't like working in bed.
+
+***Longed for*** not having to feel like I need to treasure all moments with family and fiancee. It's difficult to make time for coding when you want to also spend as much time with family and friends. 
+
+**Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
+
+### Day 14: March 21, 2018, Wednesday
