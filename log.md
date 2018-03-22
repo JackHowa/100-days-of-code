@@ -140,4 +140,14 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
 
-### Day 14: March 21, 2018, Wednesday
+### Day 14: March 22, 2018, Thursday
+
+***Liked*** Working alongside Lauren. Being fresh to work.
+
+***Learned*** Trying to refactor following the same logic can lead down similar pitfalls. 
+
+***Lacked*** Quick refactor and following same logic again. Need to pseudocode and separate logic more.
+
+***Longed for*** Quick checks of the same logic. Don't want to jump into problem too quickly.
+
+**Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
