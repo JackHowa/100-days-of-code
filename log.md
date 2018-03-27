@@ -151,3 +151,15 @@ Feel much better about getting something working and at least utilizing somethin
 ***Longed for*** Quick checks of the same logic. Don't want to jump into problem too quickly.
 
 **Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
+
+### Day 15: March 26, 2018, Monday
+
+***Liked*** Having more time to work on the project 
+
+***Learned*** Pseudocode is key! 
+
+***Lacked*** Going through and debugging poorly named variables. Sometimes just need to start from first principles maybe. 
+
+***Longed for*** Pseudocode from the start!! 
+
+**Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
