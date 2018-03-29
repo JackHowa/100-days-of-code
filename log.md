@@ -163,3 +163,15 @@ Feel much better about getting something working and at least utilizing somethin
 ***Longed for*** Pseudocode from the start!! 
 
 **Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
+
+### Day 16: March 27, 2018, Wednesday
+
+***Liked*** Getting in flow, getting second wind after work 
+
+***Learned*** js number type error is hard. clear the cache if oddity at work on fcc :) 
+
+***Lacked*** Went down stack overflow hole trying to use magic on it, rather than refactor
+
+***Longed for*** Getting this stinking problem done. Feel much better about it.
+
+**Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
