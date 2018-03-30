@@ -187,3 +187,15 @@ Feel much better about getting something working and at least utilizing somethin
 ***Longed for*** Work with big o and algorithmic improvement. 
 
 ***Link to work:*** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
+
+### Day 18: March 30, 2018, Friday 
+
+***Liked*** the satisfaction of setting up a unique url
+
+***Learned*** to focus on the smaller parts of the question of dns, not the whole shebang 
+
+***Lacked*** a quick start way of doing it with hover and github pages. 
+
+***Longed for*** an internal doc that could be super quick to setup 
+
+***Link to work*** [react portfolio](http://jackhowa.com)
