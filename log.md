@@ -164,7 +164,7 @@ Feel much better about getting something working and at least utilizing somethin
 
 **Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
 
-### Day 16: March 27, 2018, Wednesday
+### Day 16: March 28, 2018, Wednesday
 
 ***Liked*** Getting in flow, getting second wind after work 
 
@@ -175,3 +175,15 @@ Feel much better about getting something working and at least utilizing somethin
 ***Longed for*** Getting this stinking problem done. Feel much better about it.
 
 **Link to work:** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
+
+### Day 17: March 29, 2018, Thursday
+
+***Liked*** Coding on the train. Nice to get a start before work on something useful. 
+
+***Learned*** Coding while hungry on the way back from work is no fun. 
+
+***Lacked*** A big project or something fun to work. Guess exact change is fun. Refactor was good but needed more structural improvement. 
+
+***Longed for*** Work with big o and algorithmic improvement. 
+
+***Link to work:*** [exact change](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/exact-change.js)
