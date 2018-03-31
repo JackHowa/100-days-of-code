@@ -199,3 +199,16 @@ Feel much better about getting something working and at least utilizing somethin
 ***Longed for*** an internal doc that could be super quick to setup 
 
 ***Link to work*** [react portfolio](http://jackhowa.com)
+
+### Day 19: March 31, 2018, Saturday 
+
+***Liked*** 
+
+***Learned***
+
+***Lacked***
+
+***Longed for***
+
+***link to work*** [react portfolio](http://jackhowa.com)
+
