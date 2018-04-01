@@ -202,13 +202,17 @@ Feel much better about getting something working and at least utilizing somethin
 
 ### Day 19: March 31, 2018, Saturday 
 
-***Liked*** 
+***Liked*** building a portfolio site using react. Think I was using some decent design patterns for react, using a render function. 
 
-***Learned***
+***Learned*** about static class methods in react. There was a ide developer suggestion to use the static method. Since it was a class-method, and wasn't being used dynamically. Didn't use this functionality. 
 
-***Lacked***
+[benefits of static class methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/static)
 
-***Longed for***
+***Lacked*** a thorough understanding of the react design pattern I was going for. In this way, it would be more useful it I had tutorial based knowledge. 
+
+***Longed for*** quick deploy to the github pages. 
 
 ***link to work*** [react portfolio](http://jackhowa.com)
+
+User Story: I can click different buttons that will take me to the portfolio creator's different social media pages.
 
