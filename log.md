@@ -216,3 +216,14 @@ Feel much better about getting something working and at least utilizing somethin
 
 User Story: I can click different buttons that will take me to the portfolio creator's different social media pages.
 
+### Day 20: April 1, 2018, Sunday 
+
+***Liked***
+
+***Learned***
+
+***Lacked***
+
+***Longed for***
+
+***Link to work***
