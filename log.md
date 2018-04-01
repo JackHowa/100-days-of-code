@@ -218,12 +218,12 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ### Day 20: April 1, 2018, Sunday 
 
-***Liked***
+***Liked*** eating sour patch while I worked. 
 
-***Learned***
+***Learned*** that the first jump on an algorithm is not always the best, again. Had a good restart to pseudocode here. 
 
-***Lacked***
+***Lacked*** array built-in knowledge without internet access. 
 
-***Longed for***
+***Longed for*** my dad to drive less like a pissed off teenager. Tried to code in the car again. 
 
-***Link to work***
+***Link to work:*** [inventory update](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/inventory-update.js)
