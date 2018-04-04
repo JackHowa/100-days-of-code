@@ -245,8 +245,8 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ***Liked*** deploying the React updated site. 
 
-***Learned*** about const components for React. 
+***Learned*** about const components for React. A bit about why to setup Firefox Developer Addition and items in CSS Grid. 
 
-***Lacked*** clear, interesting way of styling them. Want to take the css grid course. 
+***Lacked*** clear, interesting way of styling them. Want to take the css grid course. Had a little extra time left after some refactoring on react; maybe shouldn't have watched css grid tutorial for 15 minutes. But not the end of the world. 
 
 ***Longed for*** simple deploys to gh-pages. 
