@@ -231,7 +231,7 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ### Day 21: April 3, 2018, Tuesday 
 
-***Liked*** refactoring the alphabetize with a nice built-in and new comparison that felt right for 2017. Liked working on the train to work. 
+***Liked*** refactoring the alphabetize with a nice built-in and new comparison that felt right for 2017. Liked working on the train to work. Liked Lauren's support even though I missed April 2.  
 
 ***Learned*** about locale compare and sort. 
 
