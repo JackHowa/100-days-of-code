@@ -227,3 +227,26 @@ User Story: I can click different buttons that will take me to the portfolio cre
 ***Longed for*** my dad to drive less like a pissed off teenager. Tried to code in the car again. 
 
 ***Link to work:*** [inventory update](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/inventory-update.js)
+
+
+### Day 21: April 3, 2018, Tuesday 
+
+***Liked*** refactoring the alphabetize with a nice built-in and new comparison that felt right for 2017. Liked working on the train to work. 
+
+***Learned*** about locale compare and sort. 
+
+***Lacked*** scheduled plan for when I work on 100 days of code.
+
+***Longed for*** more mental clarity to work on this. Also, still need to do like 40 more minutes.  
+
+***Link to work:*** [inventory update](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/inventory-update.js)
+
+### Day 22: April 4, 2018, Wednesday 
+
+***Liked***
+
+***Learned***
+
+***Lacked***
+
+***Longed for***
