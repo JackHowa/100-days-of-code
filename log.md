@@ -258,3 +258,5 @@ User Story: I can click different buttons that will take me to the portfolio cre
 ***Liked*** working with Lauren on her code. Also, it was fun working in Python - a new language for me. Also, obscuring text and encouragement hehe. 
 
 ***Learned*** that python 2 and 3 are different - especially on the forums. 
+
+
