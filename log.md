@@ -257,6 +257,15 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ***Liked*** working with Lauren on her code. Also, it was fun working in Python - a new language for me. Also, obscuring text and encouragement hehe. 
 
-***Learned*** that python 2 and 3 are different - especially on the forums. 
+***Learned*** that python 2 and 3 are different - especially on the forums. To check for variable naming before trying a new task. Those dev work and prototyping quickly can get in the way. 
+
+***Lacked*** a clear understanding of what the different parameters for the import and libraries used in python. 
+
+***Longed for*** collaboration with Lauren all the time. That'd be fun. Also a really solid computer that was reliable. Also, one that I had the charger for right now ... lol have to get my work computer's charger at work now. Was previously going to work from home - oops. 
+
+***Link to work*** [bit of python](https://docs.google.com/document/d/1o54pBPo1leb6PT1qqoCgg-2Fcj6InFRHT1yJUN9pOow/edit?usp=sharing)
+[encoded bit tweet](https://twitter.com/JackHowa/status/982070672313597954)
+
+***
 
 
