@@ -250,3 +250,11 @@ User Story: I can click different buttons that will take me to the portfolio cre
 ***Lacked*** clear, interesting way of styling them. Want to take the css grid course. Had a little extra time left after some refactoring on react; maybe shouldn't have watched css grid tutorial for 15 minutes. But not the end of the world. 
 
 ***Longed for*** simple deploys to gh-pages. 
+
+[react portfolio](http://jackhowa.com)
+
+### Day 22: April 5, 2018, Thursday 
+
+***Liked*** working with Lauren on her code. Also, it was fun working in Python - a new language for me. Also, obscuring text and encouragement hehe. 
+
+***Learned*** that python 2 and 3 are different - especially on the forums. 
