@@ -266,6 +266,24 @@ User Story: I can click different buttons that will take me to the portfolio cre
 ***Link to work*** [bit of python](https://docs.google.com/document/d/1o54pBPo1leb6PT1qqoCgg-2Fcj6InFRHT1yJUN9pOow/edit?usp=sharing)
 [encoded bit tweet](https://twitter.com/JackHowa/status/982070672313597954)
 
-***
+### Day 23: April 7, 2018, Saturday 
+***Liked*** making time on the weekend, even when I was distracted. 
+
+***Learned*** that the difference between permutation and combination is that permutation's position does matter. A "combination" lock should actually be called a "permutation lock" because a lock's order matters. Also, if distracted, do push-ups. 
+
+***Lacked*** a good schedule today and yesterday to do this. Also, an understanding of the math-y algorithms required for this. 
+
+***Link to work*** [permutation calculator](https://github.com/JackHowa/front-end-certificate/blob/master/advanced-sorting-algorithms/no-repeats-plz.js)
+
+### Day 24: April 8, 2018, Sunday 
+
+***Liked***
+
+***Learned*** 
+
+***Lacked*** 
+
+***Linked*** [link title](https://github.com/JackHowa)
+
 
 
