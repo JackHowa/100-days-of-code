@@ -277,13 +277,22 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ### Day 24: April 8, 2018, Sunday 
 
-***Liked***
+***Liked*** knocking it done for the day. Was too late at night and frustrated before I even started. 
 
-***Learned*** 
+***Learned*** don't code when you're not doing well. 
 
-***Lacked*** 
+***Lacked*** focus and clear of mind. Was antsy coding standing up as well. 
 
-***Linked*** [link title](https://github.com/JackHowa)
+***Linked*** nuthin
 
+### Day 25: April 9, 2018, Monday 
+
+***Liked*** Gatsby js wow. Feels good getting going with a React project.
+
+***Learned*** github pages can be temperamental but configuring cname each time does work.
+
+***Lacked*** wider scope of understanding of gatsby js. 
+
+***Linked*** [gatsby portfolio](http://jackhowa.com)
 
 
