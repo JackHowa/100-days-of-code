@@ -295,4 +295,14 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ***Linked*** [gatsby portfolio](http://jackhowa.com)
 
+### Day 26: April 10, 2018, Monday 
+
+***Liked*** working before I went to work and waking up early. Just have to get started then I'm good. 
+
+***Learned*** that following tutorial after watching is a good idea to do mini-learning along the way. 
+
+***Lacked*** a project focus for the css grid. 
+
+***Linked*** [css grid tutorial](https://github.com/JackHowa/css-grid/blob/master/03%20-%20CSS%20Grid%20Fundamentals/css-grid-fundamentals-START.html)
+
 
