@@ -295,7 +295,7 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ***Linked*** [gatsby portfolio](http://jackhowa.com)
 
-### Day 26: April 10, 2018, Monday 
+### Day 26: April 10, 2018, Tuesday 
 
 ***Liked*** working before I went to work and waking up early. Just have to get started then I'm good. 
 
@@ -305,4 +305,15 @@ User Story: I can click different buttons that will take me to the portfolio cre
 
 ***Linked*** [css grid tutorial](https://github.com/JackHowa/css-grid/blob/master/03%20-%20CSS%20Grid%20Fundamentals/css-grid-fundamentals-START.html)
 
+### Day 27: April 11, 2018, Wednesday
+
+***Liked*** deploying tic tac react in even its partial state. Happy it looks slightly better with css grid easy. 
+
+***Learned*** make sure tweet goes along with writing lol oops. Also [super cool update state](https://stackoverflow.com/questions/29537299/react-how-do-i-update-state-item1-on-setstate-with-jsfiddle?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa). Lots of good work with scope and inheritance in React.
+
+***Lacked*** direction in which project I should work on. There's a lot to do out there but difficult to prioritize when I'm used to having some sort of queue at work. 
+
+***Longed for*** personal projects that I can return to like old friends heheh.
+
+***Linked*** [react-tic-tac](https://jackhowa.github.io/tic-tac-react/)
 
